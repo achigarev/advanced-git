@@ -1,5 +1,5 @@
 # advanced-git
 
-Let's test advanced git technics - FEAT-3 change
+Let's test advanced git technics - new FEAT-4 change
 
-Some other develop branch commit - FEAT-3 change
+Some other develop branch commit - new FEAT-4 change
